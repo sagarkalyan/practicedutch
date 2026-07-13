@@ -1,0 +1,6 @@
+# Local source PDFs are not stored in Git.
+WelkomInNederland/*.pdf
+
+.DS_Store
+Thumbs.db
+*.tmp
