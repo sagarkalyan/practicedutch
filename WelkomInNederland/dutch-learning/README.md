@@ -4,12 +4,14 @@
 **Periode:** 13 juli–4 oktober 2026
 **Nu:** [Week 1 · Dag 1 — Les](lessons/week-01/day-01.md) — 13 juli 2026
 
-Open de les, leer de inhoud en maak daarna de oefeningen. Vraag Codex: **“Start mijn Nederlandse les van vandaag.”**
+Open de les, leer de inhoud en maak daarna de oefeningen. Werk na iedere les je [voortgang](PROGRESS.md) bij.
 
 ## Lessen
 
 - [Week 1 · Dag 1 — Kennismaken met Nederland](lessons/week-01/day-01.md)
 - [Antwoorden Dag 1](lessons/week-01/day-01-antwoorden.md) — pas openen na de oefeningen
+- [Week 1 · Dag 2 — Steden, provincies en water](lessons/week-01/day-02.md)
+- [Antwoorden Dag 2](lessons/week-01/day-02-antwoorden.md) — pas openen na de oefeningen
 
 ## Modules
 
@@ -27,5 +29,3 @@ Open de les, leer de inhoud en maak daarna de oefeningen. Vraag Codex: **“Star
 12. [Week 12 — Politiek, regels en eindherhaling](modules/week-12.md)
 
 [Dagelijkse werkwijze](DAILY.md) · [Voortgang](PROGRESS.md) · [Versiegeschiedenis](CHANGELOG.md)
-
-De lokale PDF-bronnen staan in de bovenliggende map en worden niet opgeslagen in Git.

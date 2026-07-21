@@ -9,8 +9,6 @@ Learn Dutch daily with short lessons, exercises and progress tracking.
 3. [Check the answers](WelkomInNederland/dutch-learning/lessons/week-01/day-01-antwoorden.md).
 4. [Update your progress](WelkomInNederland/dutch-learning/PROGRESS.md).
 
-
-
 ## Course
 
 - [Learning home](WelkomInNederland/dutch-learning/README.md)
@@ -18,9 +16,3 @@ Learn Dutch daily with short lessons, exercises and progress tracking.
 - [Week 1 plan](WelkomInNederland/dutch-learning/modules/week-01.md)
 - [All 12 weekly modules](WelkomInNederland/dutch-learning/README.md#modules)
 - [Version history](WelkomInNederland/dutch-learning/CHANGELOG.md)
-
-## Local study material
-
-The source PDFs stay in `WelkomInNederland/` on your computer and are intentionally excluded from Git.
-
-Ask Codex: **“Start my Week 1, Day 1 Dutch lesson.”**
