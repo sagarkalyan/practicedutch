@@ -12,6 +12,8 @@ Open de les, leer de inhoud en maak daarna de oefeningen. Werk na iedere les je 
 - [Antwoorden Dag 1](lessons/week-01/day-01-antwoorden.md) — pas openen na de oefeningen
 - [Week 1 · Dag 2 — Steden, provincies en water](lessons/week-01/day-02.md)
 - [Antwoorden Dag 2](lessons/week-01/day-02-antwoorden.md) — pas openen na de oefeningen
+- [Week 1 · Dag 3 — Seizoenen, weer en mensen](lessons/week-01/day-03.md)
+- [Antwoorden Dag 3](lessons/week-01/day-03-antwoorden.md) — pas openen na de oefeningen
 
 ## Modules
 
